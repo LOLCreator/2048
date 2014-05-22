@@ -313,37 +313,37 @@ hr {
     z-index: 10;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/2.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/2.jpg");
     background-position:center;
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/4.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/4.jpg");
     background-position:center;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/8.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/8.jpg");
     background-position:center;
     background-size: 100%; }
   .tile.tile-16 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/16.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/16.jpg");
     background-position:center;
     background-size: 100%; }
   .tile.tile-32 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/32.jpg"); 
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/32.jpg"); 
     background-position:center;
   background-size: 100%;}
   .tile.tile-64 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/64.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/64.jpg");
     background-position:center;
     background-size: 100%; }
   .tile.tile-128 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/128.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/128.jpg");
     background-position:center;
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
@@ -353,7 +353,7 @@ hr {
         font-size: 0px; } }
   .tile.tile-256 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/256.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/256.jpg");
     background-position:center;
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
@@ -363,7 +363,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/512.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/512.jpg");
     background-position:center;
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
@@ -373,7 +373,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/1024.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/1024.jpg");
     background-position:center;
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
@@ -383,7 +383,7 @@ hr {
         font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/2048.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048/2048.jpg");
     background-position:center;
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
@@ -393,7 +393,7 @@ hr {
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
     color: transparent;
-    background: url("file:///Users/loyalxie/Documents/REACHHAWTNESS 2048/4096.jpg");
+    background: url("file:///Users/loyalxie/Documents/2048/REACHHAWTNESS 2048.jpg");
     background-position:center;
     background-size: 100%;
     font-size: 0px; }
